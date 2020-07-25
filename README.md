@@ -5,3 +5,4 @@ The model will be further developed and validated in the next days
 * to do: check if regularization can further improve the model
 * 2020-07-24: regularization cannot improve the model
 * during the validation, rmse equals 5.029
+* if the model is applied to the test set, the rmse is 7.75
